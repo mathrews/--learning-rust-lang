@@ -6,7 +6,7 @@
 //     {
 //         let mut total: i32 = 20;
 //         println!("Trabalhou {} horas", total);
-    
+
 //         total = 44;
 //         println!("Trabalhou {} horas", total);
 //     }
@@ -29,7 +29,7 @@
 // }
 
 fn main() {
-    sum(10.0, 20.0);
+    sum(10.0, 40.0);
     sub(10.0, 5.0);
     mult(1.5, 50.0);
     div(57.0, 3.0);
